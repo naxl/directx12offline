@@ -8,7 +8,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Release](https://img.shields.io/badge/release-v1.0.0-brightgreen.svg)](https://github.com/naxl/directx12offline/releases/tag/v0.1.0)
-[![Build Status](https://img.shields.io/travis/your-username/your-repo/master.svg)](https://github.com/naxl/directx12offline)
+[![Build Status](https://img.shields.io/travis/naxl/directx12offline/master.svg)](https://github.com/naxl/directx12offline)
 
 A powerful DirectX12 Offline Package for streamlined graphics development.
 
