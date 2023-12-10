@@ -1,4 +1,4 @@
-# DirectX12 Offline 
+# DirectX12 Offline for those who can't run online installer!
 
 <p align="center">
   <img src="https://www.syncfusion.com/blogs/wp-content/uploads/2018/08/directx_3992a3dc.png" alt="https://windowsreport.com/wp-content/uploads/2022/09/directx-12-ultimate-1.jpg" width="300" height="150">
